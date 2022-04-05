@@ -1,0 +1,23 @@
+.planeImg {
+  display: block;
+  margin: 40px auto;
+}
+
+.content {
+  display: flex;
+  justify-content: center;
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.filters {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  max-width: 200px;
+  height: 100%;
+  box-shadow: 0 0 5px rgba(129, 127, 127, 0.5);
+  border-radius: 4px;
+  margin: 20px 10px;
+  padding: 10px 20px;
+  font-size: 14px;
+}
